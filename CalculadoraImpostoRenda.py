@@ -9,7 +9,7 @@ de Lisarb. Em seguida, calcule e
 mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a
 tabela abaixo.
 Imposto de Renda:
-de 0.00 a R$ 2000.00 -------------- Isento
+de 0.00 a R$ 2000.00 -------------- Isento.
 de R$ 2000.01 até R$ 3000.00 ------ 8 %
 de R$ 3000.01 até R$ 4500.00 ------ 18 %
 acima de R$ 4500.00 --------------- 28 %
